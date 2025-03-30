@@ -1,1 +1,1 @@
-# inconcistency-checking
+# inconsistency-checking
